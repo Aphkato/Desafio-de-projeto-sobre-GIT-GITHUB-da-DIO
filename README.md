@@ -1,4 +1,4 @@
-# Desafio-de-projeto-sobre-GIT-GITHUB-da-DIO.
+# Desafio-de-projeto-sobre-GITHUB-da-DIO.
 ## Primeiros comandos com GIT: init, add, commit.
 ## SHA1: Criptografia com 40 caracteres.
 ## Objetos fundamentais do GIT: BLOBS, TREES, COMMITS.
